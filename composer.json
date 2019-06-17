@@ -2,5 +2,6 @@
     "name": "split/split",
     "type": "library",
     "description": "Split is an MVC framework for PHP",
-    "keywords": ["split","mvc","php"]
+    "keywords": ["split","mvc","php"],
+    "minimum-stability": "stable"
 }
