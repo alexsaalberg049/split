@@ -1,7 +1,6 @@
 {
-    "name": "productive-programming/split",
+    "name": "split/split",
     "type": "library",
     "description": "Split is an MVC framework for PHP",
-    "keywords": ["split","mvc","php","productive","programming"],
-    "homepage": "https://www.propro.com"
+    "keywords": ["split","mvc","php"]
 }
